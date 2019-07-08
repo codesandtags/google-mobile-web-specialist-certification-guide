@@ -59,6 +59,7 @@ requests, depending on the server’s response headers
 - [ ] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
 - [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 - [ ] [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- [ ] [Official Training](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
 
 
 ### 3) Accessibility
